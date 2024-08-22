@@ -11,7 +11,7 @@ You can then run the code.
 # Note: You may need to update certain paths for the code to work correctly.
 
 Training:
-For training, we use the modalities FLAIR, T1, T1CE, and T2. However, for this specific training, I will only use T1CE. Here’s the process I follow:
+For training, I use the modalities FLAIR, T1, T1CE, and T2. However, for this specific training, I will only use T1CE. Here’s the process I follow:
 
     # 1-Convert to PNG: I convert the T1CE images to PNG format.
     # 2-Resize: I resize the images as needed.
