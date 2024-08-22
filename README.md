@@ -28,3 +28,4 @@ Results:
         EnhacingTumors         13         13      0.731      0.836      0.812      0.474
 
         
+![results](https://github.com/user-attachments/assets/feee8c02-14b1-466a-8380-7dadf27df42b)
