@@ -9,3 +9,22 @@ To execute the code, simply follow these steps:
 You can then run the code.
 
 # Note: You may need to update certain paths for the code to work correctly.
+
+Training:
+For training, we use the modalities FLAIR, T1, T1CE, and T2. However, for this specific training, I will only use T1CE. Here’s the process I follow:
+
+    # 1-Convert to PNG: I convert the T1CE images to PNG format.
+    # 2-Resize: I resize the images as needed.
+    # 3-Select the Best Slice: I choose the best slice, which is the one containing the most pixels.
+    # 4-Start Training: I then proceed to start the training with the selected slice.
+    
+Results:
+
+                 Class     Images  Instances      Box(P          R      mAP50  m
+
+                   all         14         40      0.664      0.768      0.698      0.352
+              Necrosis         13         13      0.384      0.538      0.384      0.123
+                 Edema         14         14      0.876      0.929      0.897      0.459
+        EnhacingTumors         13         13      0.731      0.836      0.812      0.474
+
+        
