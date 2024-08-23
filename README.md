@@ -8,7 +8,8 @@ To execute the code, simply follow these steps:
     2-Download this [BraTS2020 dataset](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation/data)  from Kaggle into the repository folder.
 
     3-Open a terminal.
-    4-Run the following commands on a terminal:
+    
+    4-Run the following commands on a terminal: [Visitez Google](https://www.google.com)
     
                                          python3 -m venv myenv    
                                          source myenv/bin/activate
