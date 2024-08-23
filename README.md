@@ -4,7 +4,12 @@ To execute the code, simply follow these steps:
 
     # 0-Download the Brats2020 : https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation/data
     # 1-Open a terminal.
-    # 2-Type the following command: source myenv/bin/activate
+    # 2-Type the following commands : 
+                                        1 python3 -m venv myenv    
+                                        2 source myenv/bin/activate
+                                        3 pip install nibabel matplotlib
+                                        4 pip install SimpleITK matplotlib
+                                        
     # 3-Launch Jupyter Notebook by typing: jupyter notebook
 
 You can then run the code.
