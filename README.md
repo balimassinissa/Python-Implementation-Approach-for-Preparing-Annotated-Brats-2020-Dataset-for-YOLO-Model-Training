@@ -29,7 +29,7 @@ General Informations :
 
 
 Training:
-For training, For training, initially, I used the modalities FLAIR, T1, T1CE, and T2 to create multi-channel images for training. However, I experienced very low precision. For this specific training, I will focus solely on using the T1CE modality. Here’s the process I will follow :
+For training, initially, I used the modalities FLAIR, T1, T1CE, and T2 to create multi-channel images for training. However, I experienced very low precision. For this specific training, I will focus solely on using the T1CE modality. Here’s the process I will follow :
 
     # 1-Convert to PNG: I convert the T1CE images to PNG format.
     # 2-Resize: I resize the images as needed.
