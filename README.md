@@ -58,6 +58,6 @@ Results Val:
 
 ##### Acknowledgements
 I would like to express my profound gratitude to all those who contributed to the success
-of this internship especially my supervisor, Dr. Malika Bendechache .
+of this internship especially my supervisor,  [Dr. Malika Bendechache](https://malikabendechache.github.io/).
 
-##### Made by Celina Bedjou
+##### Author :  Celina Bedjou
