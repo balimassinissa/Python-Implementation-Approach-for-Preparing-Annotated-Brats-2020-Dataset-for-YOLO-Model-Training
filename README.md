@@ -1,6 +1,7 @@
 # Python-Implementation-Approach-for-Preparing-Annotated-Brats-2020-Dataset-for-YOLO-Model-Training
 
-To execute the code, simply follow these steps:
+### General Informations:
+##### To execute the code, simply follow these steps:
 
 1. Clone this [repository](https://github.com/bedjou211/Python-Implementation-Approach-for-Preparing-Annotated-Brats-2020-Dataset-for-YOLO-Model-Training/tree/main).
 
@@ -18,9 +19,9 @@ To execute the code, simply follow these steps:
 5. Launch Jupyter Notebook by typing: jupyter notebook
 You can then run the code.
 
-### Important Note: You may need to update certain paths for the code to work correctly.
-General Informations :
-    
+##### Important Note: You may need to update certain paths for the code to work correctly.
+
+##### Images Informations:    
     ● Description: Multi-institutional (n=19)
     preoperative MRI Brain scans
     ● File Extension: Neuroimaging Informatics
@@ -32,7 +33,7 @@ General Informations :
     ● Validation and Testing Set: 25 for both
 
 
-Training:
+##### Training:
 For training, initially, I used the modalities FLAIR, T1, T1CE, and T2 to create multi-channel images for training. However, I experienced very low precision. For this specific training, I will focus solely on using the T1CE modality. Here’s the process I will follow :
 
     # 1-Convert to PNG: I convert the T1CE images to PNG format.
@@ -55,6 +56,6 @@ Results Val:
 
         
 
-## Acknowledgements
+##### Acknowledgements
 I would like to express my profound gratitude to all those who contributed to the success
-of this internship
+of this internship especially my supervisor, Dr. Malika Bendechache .
