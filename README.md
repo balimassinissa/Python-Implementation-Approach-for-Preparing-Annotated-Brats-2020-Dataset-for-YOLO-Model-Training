@@ -19,7 +19,8 @@
 5. Launch Jupyter Notebook by typing: jupyter notebook
 You can then run the code.
 
-##### Important Note: You may need to update certain paths for the code to work correctly (e.g /home/celina/Bureau/Python-Implementation-Approach-for-Preparing-Annotated-Brats-2020-Dataset-for-YOLO-Model-Training/yolov8/train/images ) you have to change this : /home/celina/Bureau/ by your own path .
+##### Important Note: You may need to update certain paths for the code to work correctly .
+(e.g /home/celina/Bureau/Python-Implementation-Approach-for-Preparing-Annotated-Brats-2020-Dataset-for-YOLO-Model-Training/yolov8/train/images ) you have to change this : /home/celina/Bureau/ by your own path .
 
 ##### Images Informations:    
     ● Description: Multi-institutional (n=19)
