@@ -15,7 +15,7 @@ General Informations :
     ● Description: Multi-institutional (n=19)
     preoperative MRI Brain scans
     ● File Extension: Neuroimaging Informatics
-    Technology Initiative (NIfTI) files (.nii.gz)
+    Technology Initiative (NIfTI) files (.nii)
     ● Image Size: 240x240x155 Voxels
     ● Number of Training Samples: 369
     Images total
