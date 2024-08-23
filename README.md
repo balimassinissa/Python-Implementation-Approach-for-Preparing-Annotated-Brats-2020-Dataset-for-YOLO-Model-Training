@@ -33,12 +33,13 @@ For training, For training, initially, I used the modalities FLAIR, T1, T1CE, an
     
 Results:
 
-                 Class     Images  Instances      Box(P          R      mAP50  m
+                Class     Images  Instances      Box(P          R      mAP50  m
 
-                   all         14         40      0.664      0.768      0.698      0.352
-              Necrosis         13         13      0.384      0.538      0.384      0.123
-                 Edema         14         14      0.876      0.929      0.897      0.459
-        EnhacingTumors         13         13      0.731      0.836      0.812      0.474
+                   all         14         40      0.735      0.693      0.734      0.375
+              Necrosis         13         13      0.471      0.385      0.421      0.114
+                 Edema         14         14      0.826      0.929      0.928      0.529
+       EnhancingTumors         13         13      0.909      0.765      0.853      0.482
 
         
-![results](https://github.com/user-attachments/assets/feee8c02-14b1-466a-8380-7dadf27df42b)
+![results](https://github.com/user-attachments/assets/c06c2041-441b-4096-ac58-a05c7ad1fb3b)
+
