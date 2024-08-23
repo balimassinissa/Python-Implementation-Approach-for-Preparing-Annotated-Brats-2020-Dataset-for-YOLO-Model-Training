@@ -30,8 +30,12 @@ For training, For training, initially, I used the modalities FLAIR, T1, T1CE, an
     # 2-Resize: I resize the images as needed.
     # 3-Select the Best Slice: I choose the best slice, which is the one containing the most pixels.
     # 4-Start Training: I then proceed to start the training with the selected slice.
-    
-Results:
+
+Results Training :
+![results](https://github.com/user-attachments/assets/c06c2041-441b-4096-ac58-a05c7ad1fb3b)
+
+
+Results Val:
 
                 Class     Images  Instances      Box(P          R      mAP50  m
 
@@ -41,5 +45,5 @@ Results:
        EnhancingTumors         13         13      0.909      0.765      0.853      0.482
 
         
-![results](https://github.com/user-attachments/assets/c06c2041-441b-4096-ac58-a05c7ad1fb3b)
+
 
