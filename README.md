@@ -15,8 +15,7 @@ To execute the code, simply follow these steps:
                            source myenv/bin/activate
                            pip install nibabel matplotlib
                            pip install SimpleITK matplotlib
-
-5.Launch Jupyter Notebook by typing: jupyter notebook
+5. Launch Jupyter Notebook by typing: jupyter notebook
 You can then run the code.
 
 ### Important Note: You may need to update certain paths for the code to work correctly.
