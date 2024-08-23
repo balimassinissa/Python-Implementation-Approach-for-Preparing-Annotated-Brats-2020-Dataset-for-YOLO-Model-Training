@@ -10,11 +10,11 @@ To execute the code, simply follow these steps:
             
             4. Run the following commands on a terminal:
             
-               ```bash
-               python3 -m venv myenv    
-               source myenv/bin/activate
-               pip install nibabel matplotlib
-               pip install SimpleITK matplotlib
+            
+                                       python3 -m venv myenv    
+                                       source myenv/bin/activate
+                                       pip install nibabel matplotlib
+                                       pip install SimpleITK matplotlib
 
 
 You can then run the code.
