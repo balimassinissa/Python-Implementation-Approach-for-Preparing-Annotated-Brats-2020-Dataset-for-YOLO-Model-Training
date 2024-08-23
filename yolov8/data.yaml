@@ -1,0 +1,5 @@
+train: /home/celina/Bureau/final2/yolov8/train/images
+val: /home/celina/Bureau/final2/yolov8/augmented/images
+
+nc: 3  # Number of classes
+names: ['Necrosis', 'Edema', 'EnhancingTumors']  # Ensure all names are unique and correspond to the IDs
