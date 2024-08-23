@@ -32,7 +32,7 @@ You can then run the code.
     ● Training Set: 344
     ● Validation and Testing Set: 25 for both
 
-
+##### Type of YOLO model that have been used : YOLOv8
 ##### Training:
 For training, initially, I used the modalities FLAIR, T1, T1CE, and T2 to create multi-channel images for training. However, I experienced very low precision. For this specific training, I will focus solely on using the T1CE modality. Here’s the process I will follow :
 
