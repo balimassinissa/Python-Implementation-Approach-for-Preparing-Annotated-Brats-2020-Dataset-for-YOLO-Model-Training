@@ -14,7 +14,7 @@ To execute the code, simply follow these steps:
 
 You can then run the code.
 
-# Note: You may need to update certain paths for the code to work correctly.
+## Important Note: You may need to update certain paths for the code to work correctly.
 General Informations :
     
     ● Description: Multi-institutional (n=19)
