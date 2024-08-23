@@ -5,7 +5,7 @@ To execute the code, simply follow these steps:
 
     1-Clone this [repository](https://github.com/bedjou211/Python-Implementation-Approach-for-Preparing-Annotated-Brats-2020-Dataset-for-YOLO-Model-Training/tree/main).
 
-    2-Download this [BraTS2020 dataset] (https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation/data)  from Kaggle into the repository folder.
+    2-Download this [BraTS2020 dataset](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation/data)  from Kaggle into the repository folder.
 
     3-Open a terminal.
     4-Run the following commands on a terminal:
