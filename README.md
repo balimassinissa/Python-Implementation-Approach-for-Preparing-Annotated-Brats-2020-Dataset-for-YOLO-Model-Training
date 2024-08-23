@@ -16,7 +16,8 @@
                            source myenv/bin/activate
                            pip install nibabel matplotlib
                            pip install SimpleITK matplotlib
-5. Launch Jupyter Notebook by typing: jupyter notebook
+                           pip install torch
+6. Launch Jupyter Notebook by typing: jupyter notebook
 You can then run the code.
 
 ##### Important Note: You may need to update certain paths for the code to work correctly:
