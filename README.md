@@ -10,6 +10,18 @@ To execute the code, simply follow these steps:
 You can then run the code.
 
 # Note: You may need to update certain paths for the code to work correctly.
+General Informations :
+    
+    ● Description: Multi-institutional (n=19)
+    preoperative MRI Brain scans
+    ● File Extension: Neuroimaging Informatics
+    Technology Initiative (NIfTI) files (.nii.gz)
+    ● Image Size: 240x240x155 Voxels
+    ● Number of Training Samples: 369
+    Images total
+    ● Training Set: 344
+    ● Validation and Testing Set: 25 for both
+
 
 Training:
 For training, For training, initially, I used the modalities FLAIR, T1, T1CE, and T2 to create multi-channel images for training. However, I experienced very low precision. For this specific training, I will focus solely on using the T1CE modality. Here’s the process I will follow :
